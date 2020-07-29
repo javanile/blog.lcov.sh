@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 ---
 
-# What Google say about BASH code coverage
+# What Google say about BASH Code Coverage
 
 Search query "bash code coverage"
 
