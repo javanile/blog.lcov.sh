@@ -1,3 +1,3 @@
-# blog.lcov.sh
+# Code Coverage (Blog)
 
 This blog is hosted on Hashnode
