@@ -1,4 +1,4 @@
-# Code Coverage (The Blog)
+# Shell Coverage (The Blog)
 
 This blog is hosted on Hashnode
 
